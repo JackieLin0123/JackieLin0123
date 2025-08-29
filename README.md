@@ -52,6 +52,6 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JackieLin-0123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3498db&icon_color=3498db&text_color=FFFFFF" width="52%" alt="JackieLin0123's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JackieLin0123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=3498db&icon_color=3498db&text_color=FFFFFF" width="52%" alt="JackieLin0123's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackieLin-0123&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=3498db" width="36%" alt="JackieLin0123's Most used languages" />
 </div>
