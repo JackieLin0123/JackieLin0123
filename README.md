@@ -22,7 +22,7 @@
 
 <ul style="list-style-type: none; text-align: left; margin-left: 40px;">
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" height="20" alt="Telescope" /> I'm interested in <b>Large Language Models (LLMs)</b>, <b>Multimodal Learning</b>, <b>Reinforcement Learning</b>, and <b>Medical AI</b>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" height="20" alt="Telescope" /> I'm interested in <b>Multimodal Intelligence</b>, <b>Large Language Models</b> and <b>Time Series Modeling</b>.
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" height="20" alt="Rocket" /> I'm currently studying at the <b>School of Computer Science and Technology, Tongji University</b>, majoring in Software Engineering with a focus on Machine Intelligence
